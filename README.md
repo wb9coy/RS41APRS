@@ -1,0 +1,2 @@
+# RS41APRS
+STM32 CudeIDE project for RS41 APRS
