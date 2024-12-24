@@ -10,7 +10,7 @@
 
 #define VERSION_INFO ((char *)"Version 1.0")
 
-#define CALL_SIGN ((char *)"WB9COY")
+#define CALL_SIGN ((char *)"NOCALL")
 
 #define TRANSMIT_FREQUENCY  432.5000f //Mhz
 
