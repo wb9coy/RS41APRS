@@ -38,7 +38,7 @@
 // See APRS symbol table documentation in: http://www.aprs.org/symbols/symbolsX.txt
 #define APRS_SYMBOL_TABLE '/' // '/' denotes primary and '\\' denotes alternate APRS symbol table
 #define APRS_SYMBOL 'O'
-#define APRS_COMMENT "ANSR Flight"
+#define APRS_COMMENT "XXXX Flight"
 #define APRS_RELAYS "WIDE1-1,WIDE2-1" // Do not include any spaces in the APRS_RELAYS
 #define APRS_DESTINATION "APZ41N"
 #define APRS_DESTINATION_SSID '0'
